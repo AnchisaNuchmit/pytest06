@@ -1,2 +1,2 @@
 def test_init():
-  assert Ture
+  assert True
